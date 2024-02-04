@@ -17,6 +17,7 @@
 - Update Profile
 - BugFix: Sign up user displayName and profile picture update
 - BugFix: if the user is not logged in Redirect /browse to Login Page and vice-versa
+- Unsubscibed to the onAuthStateChanged callback
 
 # Features
 
